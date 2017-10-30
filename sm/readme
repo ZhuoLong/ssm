@@ -1,0 +1,8 @@
+spring和 mybatis的整合项目
+mybatis : 自己的核心配置文件，sql的定义文件，对应的接口
+导入mybatis的jar包
+
+spring的配置：
+	 核心配置文件 ：数据源，事物，bean的管理
+	 导入jar包
+	 还需要导入一个mybatis-spring的一个jar包 mybatis-spring-1.2.2.jar
